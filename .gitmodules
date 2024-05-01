@@ -1,0 +1,6 @@
+[submodule "file123"]
+	path = file123
+	url = https://github.com/urk23cs5095/file123.git
+[submodule "dhanam"]
+	path = dhanam
+	url = https://github.com/urk23cs5095/dhanam.git
